@@ -1,0 +1,6 @@
+@HoaChat_HostAddress = http://localhost:5185
+
+GET {{HoaChat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
